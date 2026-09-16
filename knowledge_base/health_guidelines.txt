@@ -1,0 +1,225 @@
+HEALTHMATE AI — TRUSTED PREVENTIVE HEALTH KNOWLEDGE BASE
+
+Purpose:
+This knowledge base provides general educational information
+for preventive health and wellness. It is not intended for
+diagnosis, treatment, or medical decision-making.
+
+============================================================
+1. GENERAL WELLNESS
+============================================================
+
+Good health is supported by regular physical activity,
+a varied and balanced diet, adequate rest, social connection,
+and healthy daily routines.
+
+Healthy habits should be adapted to a person's individual
+needs, circumstances, culture, and lifestyle.
+
+HealthMate AI should provide general educational guidance
+and should not assume that the same recommendation is
+appropriate for every person.
+
+Source:
+World Health Organization (WHO)
+https://www.who.int/health-topics/healthy-diet
+
+
+============================================================
+2. HEALTHY DIET AND NUTRITION
+============================================================
+
+A healthy diet is based on variety, balance, adequacy,
+moderation, and diversity.
+
+A varied diet can include:
+- Vegetables and fruits
+- Legumes such as beans and lentils
+- Whole grains and other staple foods
+- Nuts and other nutritious foods
+- Appropriate sources of protein
+
+WHO recommends limiting foods and dietary components that
+can be harmful when consumed in excess, including free
+sugars, sodium, saturated fats, and industrially produced
+trans fats.
+
+For adults, WHO recommends limiting salt intake to less
+than 5 grams per day, equivalent to less than 2 grams of
+sodium per day.
+
+WHO recommends that people older than 10 years aim for at
+least 400 grams of fruits and vegetables per day.
+
+The exact composition of a healthy diet can vary depending
+on individual characteristics, locally available foods,
+dietary customs, and other circumstances.
+
+HealthMate AI should avoid giving highly specific diet
+plans unless appropriate context and professional guidance
+are available.
+
+Source:
+World Health Organization (WHO), Healthy Diet
+Updated January 2026
+https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+
+
+============================================================
+3. PHYSICAL ACTIVITY
+============================================================
+
+Regular physical activity contributes to physical and
+mental well-being.
+
+For adults aged 18–64 years, WHO recommends at least:
+- 150–300 minutes of moderate-intensity aerobic physical
+  activity per week, OR
+- 75–150 minutes of vigorous-intensity aerobic physical
+  activity per week, OR
+- an equivalent combination of moderate and vigorous
+  activity.
+
+Adults should also perform muscle-strengthening activities
+involving major muscle groups on 2 or more days per week.
+
+Some physical activity is better than none.
+
+Physical activity can include walking, cycling, sports,
+exercise, work-related movement, transportation, and
+household activities.
+
+People with health conditions or limitations should consider
+appropriate professional advice when determining suitable
+activity levels.
+
+Source:
+World Health Organization (WHO)
+https://www.who.int/initiatives/behealthy/physical-activity
+
+
+============================================================
+4. SLEEP AND REST
+============================================================
+
+Healthy sleep is an important part of overall well-being.
+
+General healthy sleep habits can include:
+- Maintaining a consistent sleep and wake schedule
+- Creating a comfortable and quiet sleep environment
+- Following a relaxing routine before bedtime
+- Reducing stimulating activities close to bedtime
+- Being mindful of caffeine and other substances that may
+  interfere with sleep
+
+Persistent or concerning sleep problems may require
+discussion with a qualified healthcare professional.
+
+HealthMate AI should not diagnose sleep disorders.
+
+Source:
+HealthMate AI preventive wellness guidance.
+
+
+============================================================
+5. MENTAL WELL-BEING
+============================================================
+
+Mental well-being can be supported by healthy routines,
+adequate rest, physical activity, social connection,
+relaxation, and taking appropriate breaks.
+
+People experiencing persistent emotional difficulties or
+problems that interfere with daily life should consider
+speaking with a qualified healthcare or mental-health
+professional.
+
+HealthMate AI should provide general supportive information
+and should not diagnose mental-health conditions.
+
+If a person describes an immediate risk of self-harm or
+another emergency, HealthMate AI should encourage immediate
+professional or emergency assistance rather than attempting
+to provide treatment.
+
+Source:
+HealthMate AI responsible wellness guidance.
+
+
+============================================================
+6. PREVENTIVE HEALTH
+============================================================
+
+Preventive health includes maintaining healthy habits and
+using appropriate preventive healthcare services.
+
+Depending on a person's age, circumstances, and health
+history, preventive care may include:
+- Routine health checkups
+- Recommended vaccinations
+- Appropriate health screenings
+- Healthy nutrition
+- Regular physical activity
+- Adequate sleep
+- Attention to persistent or concerning changes in health
+
+Specific screening, vaccination, or medical recommendations
+can depend on individual circumstances and local healthcare
+guidelines.
+
+HealthMate AI should avoid presenting a single preventive
+schedule as appropriate for everyone.
+
+Users should consult qualified healthcare professionals for
+personalized preventive-care decisions.
+
+
+============================================================
+7. RESPONSIBLE AI AND SAFETY
+============================================================
+
+HealthMate AI provides general educational wellness
+information.
+
+It must NOT:
+- Diagnose diseases or medical conditions
+- Prescribe medicines
+- Recommend starting or stopping medication
+- Recommend changing medication dosage
+- Replace a healthcare professional
+- Make assumptions about a user's medical history
+- Request unnecessary sensitive personal information
+
+HealthMate AI should clearly communicate uncertainty when
+information is insufficient.
+
+When a question involves severe, persistent, worsening,
+or potentially emergency symptoms, the user should be
+encouraged to seek appropriate professional medical care.
+
+HealthMate AI should use the available knowledge base as
+a primary information source and should avoid inventing
+unsupported medical claims.
+
+
+============================================================
+8. SOURCE AND KNOWLEDGE POLICY
+============================================================
+
+The HealthMate AI knowledge base prioritizes information
+from trusted public-health sources.
+
+Primary external source used in this version:
+
+World Health Organization (WHO)
+Healthy Diet:
+https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+
+World Health Organization (WHO)
+Physical Activity:
+https://www.who.int/initiatives/behealthy/physical-activity
+
+The knowledge base should be reviewed periodically because
+health recommendations can change over time.
+
+This knowledge base is intended for educational purposes only.
