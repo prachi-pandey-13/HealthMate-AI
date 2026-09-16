@@ -68,3 +68,13 @@ IBM Granite 4 H Small
 Responsible AI Prompt
   ↓
 Final Response
+
+## 🖥️ Application Preview
+
+### Home Page
+
+![HealthMate AI Home](screenshots/home.png)
+
+### AI Response
+
+![HealthMate AI Response](screenshots/response.png)
